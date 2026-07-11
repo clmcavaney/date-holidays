@@ -233,7 +233,7 @@ holidays:
       ES:
         name: Espírito Santo
         # Data Magna do Estado: feriado estadual desde a Lei 11.010/2019.
-        # @attrib https://g1.globo.com/es/espirito-santo/noticia/2025/04/26/saiba-o-que-funciona-e-nao-funciona-no-feriado-de-nossa-senhora-da-penha-no-es.ghtml
+        # @source https://g1.globo.com/es/espirito-santo/noticia/2025/04/26/saiba-o-que-funciona-e-nao-funciona-no-feriado-de-nossa-senhora-da-penha-no-es.ghtml
         zones:
           - America/Sao_Paulo
         days:
